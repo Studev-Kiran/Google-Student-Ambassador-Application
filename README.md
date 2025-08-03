@@ -233,7 +233,7 @@ I deserve this role not just because I use the tool, but because **I live the mi
 - ✅ Proven that some of the most innovative AI applications come from diverse academic backgrounds
 
 ### 🌟 **Connect with the Change-Maker:**
-- **GitHub**: [@Studev-Kiran](https://github.com/Studev-Kiran) | *Fighting for inclusive tech education*
+- **GitHub**: [@Studev-Kiran](https://github.com/StudevKiran) | *Fighting for inclusive tech education*
 - **Innovation Hub**: [SBHPS web Project](https://studevkiran.github.io/SBHPS/) | *AI for sustainability*
 - **Digital Leadership**: [MIT FGC Management Portal](https://mitfgc.notion.site) | *Democratizing campus technology*
 - **Campus**: MIT FGC, Karnataka | University of Mysore Network | *Ground zero for the AI inclusion revolution*
